@@ -21,20 +21,16 @@
 >* cd /content/ml-2dd-peach-koehler/code-keras/
 >* !python3.6 code_data.py
 
-## 2.4. Edit neuron architectures to be investigated in /content/ml-2dd-peach-koehler/code-keras/code_creator_keras.py and run it after adjusting rtt and rrs in it
->* cd /content/ml-2dd-peach-koehler/code-keras/
->* !python3.6 code_creator_keras.py
-
-## 2.5. Edit neuron architectures to be investigated in /content/ml_2dd_peach_koehler/code-keras/code_creator_keras.py and run it
+## 2.4. Edit neuron architectures to be investigated in /content/ml_2dd_peach_koehler/code-keras/code_creator_keras.py and run it
 >* cd /content/ml_2dd_peach_koehler/code-keras/
 >* !python3.6 code_creator_keras.py
 
 
-## 2.6. Edit ML input parameters in /content/ml-2dd-peach-koehler/code-keras/cls_keras.py and run any prefered /content/ml-2dd-peach-koehler/code-keras/master_keras_* file
+## 2.5. Edit ML input parameters in /content/ml-2dd-peach-koehler/code-keras/cls_keras.py and run any prefered /content/ml-2dd-peach-koehler/code-keras/master_keras_* file
 >* #Example for RTT of 3 and RRS of 2
 >* !python3.6 master_keras_3_2_100_75_50_25_12.py
  
-## 2.7. Results including the models and figures are availble at /content/ml-2dd-peach-koehler/data-python/
+## 2.6. Results including the models and figures are availble at /content/ml-2dd-peach-koehler/data-python/
 >* cd /content/ml-2dd-peach-koehler/data-python/
 
 ## P.S. Never delete temp.log files in subdirectories 
